@@ -5,4 +5,5 @@
 html {
     max-width: 40em;
     margin-inline: auto;
+    padding: 0.5em;
 }
