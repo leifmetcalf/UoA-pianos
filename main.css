@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+}
+
+html {
+    max-width: 40em;
+    margin-inline: auto;
+}
