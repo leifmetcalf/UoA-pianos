@@ -1,0 +1,29 @@
+[
+	{
+		"building": "423",
+		"building_name": "Conference Centre",
+		"room": "348",
+		"room_name": "Design Theatre",
+		"model": "Steinway Model M Grand",
+		"notes": "Room most of the time booked out"
+	},
+	{
+		"building": "201",
+		"building_name": "Arts and Social Sciences",
+		"room": "",
+		"model": "Atlas Uprght",
+		"notes": "In open, right from lowest floor entrance"
+	},
+	{
+		"building": "253",
+		"building_name": "Maori & Pacific Studies",
+		"room": "101",
+		"model": "Boston Upright"
+	},
+	{
+		"building": "260",
+		"building_name": "OGGB",
+		"room": "?",
+		"notes": "Only rumours"
+	}
+]
